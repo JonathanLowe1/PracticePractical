@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ zipCode
+comment0.target=PersonWithZip(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ PersonWithZip\r\n
+comment1.params=
+comment1.target=int\ getZip()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
